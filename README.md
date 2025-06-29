@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
 
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=mongodb"/><img src="https://skillicons.dev/icons?i=postgre"/><img src="https://skillicons.dev/icons?i=firebase"/></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=mongodb"/><img src="https://skillicons.dev/icons?i=postgres"/><img src="https://skillicons.dev/icons?i=firebase"/></a>
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
