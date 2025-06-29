@@ -17,7 +17,16 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+<!-- Redes sociales y contacto actualizados -->
+<a href="https://www.instagram.com/i42ezee/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="@i42ezee" title="@i42ezee"/>
+</a>
+<a href="mailto:ezegonza724@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="ezegonza724@gmail.com" title="ezegonza724@gmail.com"/>
+</a>
+<a href="tel:+5492235223906">
+  <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="+54 9 223 522 3906" title="+54 9 223 522 3906"/>
+</a>
 
 <br>
 
