@@ -46,7 +46,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel"/><img src="https://skillicons.dev/icons?i=figma"/></a>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jest"/><img src="https://skillicons.dev/icons?i=cypress"/></a>
 
 <br>
 
