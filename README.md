@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=mongodb"/><img src="https://skillicons.dev/icons?i=postgre"/><img src="https://skillicons.dev/icons?i=firebase"/></a>
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
