@@ -44,7 +44,7 @@
 
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=mongodb"/><img src="https://skillicons.dev/icons?i=postgres"/><img src="https://skillicons.dev/icons?i=firebase"/></a>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel"/><img src="https://skillicons.dev/icons?i=figma"/></a>
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
